@@ -51,10 +51,15 @@ npm start
 ## Description of Configuration Fields
 
 subject: The subject of the email.
+
 text: The body of the email, where ${mrs}, ${name} and ${email} will be replaced with the values ​​from the corresponding columns in the spreadsheet.
+
 email: Your email used to send emails.
+
 password: Your password for email authentication.
+
 docXSLX: The name of the Excel file containing the list of emails and personal data.
+
 host: The email provider (gmail, hotmail or yahoo).
 
 # Messages in the Console
