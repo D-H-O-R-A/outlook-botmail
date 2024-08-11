@@ -1,0 +1,8 @@
+{
+    "subject": "email title/subject test",
+    "text":"teste message ${mrs} ${name} send to email ${email} ",
+    "email": "diegoantunes2301@gmail.com",
+    "password": "D23i01e06go",
+    "docXSLX": "teste.xlsx",
+    "host": "hotmail"
+}

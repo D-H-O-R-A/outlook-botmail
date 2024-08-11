@@ -1,0 +1,31 @@
+{
+  "name": "outlook-botmail",
+  "version": "1.0.0",
+  "description": "Bot created for Outlook that sends multiple emails to different accounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Diego H. O. R. Antunes <diegoantunes2301@gmail.com>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D-H-O-R-A/outlook-botmail.git"
+  },
+  "keywords": [
+    "mail",
+    "bot",
+    "outlook",
+    "email"
+  ],
+  "bugs": {
+    "url": "https://github.com/D-H-O-R-A/outlook-botmail/issues"
+  },
+  "homepage": "https://github.com/D-H-O-R-A/outlook-botmail#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.9.14",
+    "xlsx": "^0.18.5"
+  }
+}
